@@ -28,7 +28,7 @@ class Calculatorbrain {
     } else if (_bmi > 18.5) {
       return "Keep it up";
     } else {
-      return "Eat some food you skeleton.";
+      return "You are underweight.";
     }
   }
 }
